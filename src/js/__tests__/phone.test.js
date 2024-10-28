@@ -16,5 +16,5 @@ test('FOreign number with +', () => {
 })
 
 test('Number Error', () => {
-    expect(() => formatPhoneNumber('+aaa45')).toThrowError('Это не номер телефона');
+    expect(() => formatPhoneNumber('+aaa45')).toThrow('Это не номер телефона');
 });

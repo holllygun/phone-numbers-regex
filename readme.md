@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/7j93jri75givgbm3?svg=true)](https://ci.appveyor.com/project/holllygun/phone-numbers-regex)
